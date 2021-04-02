@@ -1,12 +1,15 @@
 {
   "teams":[
       {
+        "id": 1,
         "name": "G2"
       },
       {
+        "id": 2,
         "name": "Fnatic"
       },
       {
+        "id": 3,
         "name": "Team Liquid"
       }
     ]
